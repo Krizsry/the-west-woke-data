@@ -6,6 +6,9 @@
     "logoText": "./hi.png",
     "heroImage": "/header.png"
   },
+
+
+  
   "CATEGORIES": [
     { "id": "president", "label": "President" },
     { "id": "adviser", "label": "Adviser" },
@@ -18,6 +21,8 @@
     { "id": "science", "label": "Science" },
     { "id": "arts", "label": "Arts" }
   ],
+
+
   "ARTICLES": [
     {
       "id": "Red-Redemption",
@@ -31,6 +36,8 @@
       "publishedAt": "2025-08-14T10:30:00+08:00",
       "readMinutes": ""
     },
+
+    
     {
       "id": "TEMPLATE",
       "title": "TEMPLATE",
@@ -45,3 +52,4 @@
     }
   ]
 }
+
