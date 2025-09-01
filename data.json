@@ -1,0 +1,47 @@
+{
+  "SITE": {
+    "name": "The West WOKE",
+    "tagline": "The Official School Publication",
+    "school": "Dasmariñas West National High School",
+    "logoText": "./hi.png",
+    "heroImage": "/header.png"
+  },
+  "CATEGORIES": [
+    { "id": "president", "label": "President" },
+    { "id": "adviser", "label": "Adviser" },
+    { "id": "editorial", "label": "Editorial" },
+    { "id": "radio", "label": "Radio" },
+    { "id": "features", "label": "Features" },
+    { "id": "sports", "label": "Sports" },
+    { "id": "campus", "label": "Campus" },
+    { "id": "community", "label": "Community" },
+    { "id": "science", "label": "Science" },
+    { "id": "arts", "label": "Arts" }
+  ],
+  "ARTICLES": [
+    {
+      "id": "Red-Redemption",
+      "title": "Red Phoenix's representatives dominates Likhawitan Intramurals 2025",
+      "excerpt": "Grade 9–Red Phoenix defeated the Mockingjays, Eagles, and Falcons to win the championship in the Likhawitan Intramurals 2025, held on the stage of Dasmariñas West National High School on August 9, 2025.",
+      "content": "Grade 9–Red Phoenix defeated the Mockingjays, Eagles, and Falcons to win the championship ... Sebia happily expressed.",
+      "image": "/test.jpg",
+      "category": "campus",
+      "author": "Gelo Bulagnir",
+      "tags": ["events", "tradition", "campus"],
+      "publishedAt": "2025-08-14T10:30:00+08:00",
+      "readMinutes": ""
+    },
+    {
+      "id": "TEMPLATE",
+      "title": "TEMPLATE",
+      "excerpt": "TEMPLATE BLAH BLAH BLAH",
+      "content": "TEMPLATE BLAH BLAH BLAH   bl;as",
+      "image": "https://images.unsplash.com/photo-1489365091240-6e96d56e72ab?q=80&w=1200&auto=format&fit=crop",
+      "category": "template",
+      "author": "Campus Desk",
+      "tags": ["events", "tradition", "community"],
+      "publishedAt": "2025-08-20T10:30:00+08:00",
+      "readMinutes": 4
+    }
+  ]
+}
