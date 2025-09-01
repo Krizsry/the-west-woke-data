@@ -1,0 +1,12 @@
+[
+  { "id": "president", "label": "President" },
+  { "id": "adviser", "label": "Adviser" },
+  { "id": "editorial", "label": "Editorial" },
+  { "id": "radio", "label": "Radio" },
+  { "id": "features", "label": "Features" },
+  { "id": "sports", "label": "Sports" },
+  { "id": "campus", "label": "Campus" },
+  { "id": "community", "label": "Community" },
+  { "id": "science", "label": "Science" },
+  { "id": "arts", "label": "Arts" }
+]
